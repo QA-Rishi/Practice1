@@ -1,0 +1,1 @@
+🔍 GET: /users?page=1

@@ -1,0 +1,9 @@
+📤 POST: https://reqres.in/api/users
+✅ Status: 201
+Created ID: 167
+🔍 GET: https://reqres.in/api/users
+✅ Status: 200
+🔄 PUT: https://reqres.in/api/users/2
+✅ Status: 200
+🗑️ DELETE: https://reqres.in/api/users/2
+✅ Status: 204

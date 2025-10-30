@@ -1,0 +1,23 @@
+{
+  "date": "Mon, 18 Aug 2025 13:54:39 GMT",
+  "connection": "keep-alive",
+  "cf-ray": "9711e785dae6a7a3-DEL",
+  "access-control-allow-origin": "*",
+  "etag": "W/\"2-vyGp6PvFo4RvsFtPoIWeCReyIC8\"",
+  "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+  "ratelimit-limit": "100",
+  "ratelimit-policy": "100;w=60",
+  "ratelimit-remaining": "54",
+  "ratelimit-reset": "58",
+  "referrer-policy": "strict-origin-when-cross-origin",
+  "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=K7L6RhxLyvBZtvGL62WtviUYtEc%2BU1nFrXjJvLafpLw%3D\\u0026sid=c4c9725f-1ab0-44d8-820f-430df2718e11\\u0026ts=1755525279\"}],\"max_age\":3600}",
+  "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=K7L6RhxLyvBZtvGL62WtviUYtEc%2BU1nFrXjJvLafpLw%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1755525279\"",
+  "via": "1.1 heroku-router",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "DENY",
+  "x-request-id": "7ddd446d-e34b-9066-809f-765826a23248",
+  "x-xss-protection": "1; mode=block",
+  "cf-cache-status": "DYNAMIC",
+  "server": "cloudflare",
+  "server-timing": "cfL4;desc=\"?proto=TCP&rtt=11596&min_rtt=5696&rtt_var=3773&sent=52&recv=31&lost=0&retrans=0&sent_bytes=19773&recv_bytes=3761&delivery_rate=848866&cwnd=255&unsent_bytes=0&cid=0de98c41746e6570&ts=2660&x=0\""
+}

@@ -1,0 +1,3 @@
+🔍 GET: https://reqres.in/api/users?page=1
+🔍 GET: https://reqres.in/api/users/1
+✅ Data validation completed

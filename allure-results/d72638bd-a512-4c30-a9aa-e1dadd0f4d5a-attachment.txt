@@ -1,0 +1,2 @@
+📤 POST: https://reqres.in/api/login
+Sending login  {"email":"eve.holt@reqres.in","password":"cityslicka"}

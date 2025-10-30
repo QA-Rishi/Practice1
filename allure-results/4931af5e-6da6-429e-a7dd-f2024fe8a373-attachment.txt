@@ -1,0 +1,4 @@
+Sending login  {"email":"eve.holt@reqres.in","password":"cityslicka"}
+Direct Playwright Status: 200
+Direct Playwright Response: { token: 'QpwL5tke4Pnpja7X4' }
+✅ Direct Playwright login works!

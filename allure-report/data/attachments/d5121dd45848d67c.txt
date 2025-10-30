@@ -1,0 +1,3 @@
+📤 POST: https://reqres.in/api/login
+✅ Status: 200
+✅ Login token (first 10): QpwL5tke4P...

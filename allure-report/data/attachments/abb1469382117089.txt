@@ -1,0 +1,3 @@
+📤 POST: https://reqres.in/api/login
+✅ Status: 400
+❗ Error: Missing password

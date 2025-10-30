@@ -1,0 +1,6 @@
+{
+  "Content-Type": "application/json",
+  "X-API-KEY": "reqres-free-v1",
+  "Accept": "application/json",
+  "User-Agent": "Playwright-Test/1.0"
+}

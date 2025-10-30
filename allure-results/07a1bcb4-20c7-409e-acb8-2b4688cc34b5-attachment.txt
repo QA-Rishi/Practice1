@@ -1,0 +1,3 @@
+📤 POST: https://reqres.in/api/register
+✅ Status: 200
+Registration successful. User ID: 4

@@ -1,0 +1,12 @@
+{
+  "$id": "userCreated",
+  "type": "object",
+  "required": ["name", "job", "id", "createdAt"],
+  "properties": {
+    "name": { "type": "string" },
+    "job": { "type": "string" },
+    "id": { "type": ["string", "integer"] },
+    "createdAt": { "type": "string", "format": "date-time" }
+  },
+  "additionalProperties": true
+}

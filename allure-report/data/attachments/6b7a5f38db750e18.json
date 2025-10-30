@@ -1,0 +1,10 @@
+{
+  "loginData": {
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+  },
+  "headers": {
+    "X-API-KEY": "reqres-free-v1",
+    "Content-Type": "application/json"
+  }
+}

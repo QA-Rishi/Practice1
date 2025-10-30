@@ -1,0 +1,3 @@
+🔄 PUT: https://reqres.in/api/users/2
+✅ Status: 200
+Updated user successfully at: 2025-08-18T08:31:55.234Z

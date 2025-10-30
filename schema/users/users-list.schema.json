@@ -1,0 +1,35 @@
+{
+  "$id": "usersList",
+  "type": "object",
+  "required": ["page", "per_page", "total", "total_pages", "data"],
+  "properties": {
+    "page": { "type": "integer", "minimum": 1 },
+    "per_page": { "type": "integer", "minimum": 1 },
+    "total": { "type": "integer", "minimum": 0 },
+    "total_pages": { "type": "integer", "minimum": 1 },
+    "data": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "email", "first_name", "last_name", "avatar"],
+        "properties": {
+          "id": { "type": "integer", "minimum": 1 },
+          "email": { "type": "string", "format": "email" },
+          "first_name": { "type": "string" },
+          "last_name": { "type": "string" },
+          "avatar": { "type": "string", "format": "uri" }
+        },
+        "additionalProperties": true
+      }
+    },
+    "support": {
+      "type": "object",
+      "properties": {
+        "url": { "type": "string", "format": "uri" },
+        "text": { "type": "string" }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,9 @@
+{
+  "$id": "loginError",
+  "type": "object",
+  "required": ["error"],
+  "properties": {
+    "error": { "type": "string", "minLength": 1 }
+  },
+  "additionalProperties": true
+}
