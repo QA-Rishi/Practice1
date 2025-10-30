@@ -1,2 +1,0 @@
-🔍 GET: /users/999
-✅ Error handling verified

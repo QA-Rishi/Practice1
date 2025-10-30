@@ -1,4 +1,0 @@
-📤 POST: /api/login
-🔑 Auth token set
-🔍 GET: /api/users?page=1
-✅ Authentication workflow completed

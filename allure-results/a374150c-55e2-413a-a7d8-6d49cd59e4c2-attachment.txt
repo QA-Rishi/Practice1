@@ -1,2 +1,0 @@
-🔄 PUT: https://reqres.in/api/users/2
-✅ Status: 200

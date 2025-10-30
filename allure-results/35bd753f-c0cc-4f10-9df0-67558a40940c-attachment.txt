@@ -1,3 +1,0 @@
-📤 POST: https://reqres.in/api/users
-✅ Status: 201
-Created user with ID: 896

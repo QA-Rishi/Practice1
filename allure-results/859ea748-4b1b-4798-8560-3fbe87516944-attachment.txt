@@ -1,2 +1,0 @@
-🔍 GET: /api/users?page=1
-🔍 GET: /api/users/2

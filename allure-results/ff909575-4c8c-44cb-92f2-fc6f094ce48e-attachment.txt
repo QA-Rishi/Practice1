@@ -1,2 +1,0 @@
-📤 POST: https://reqres.in/api/login
-Received status: 403

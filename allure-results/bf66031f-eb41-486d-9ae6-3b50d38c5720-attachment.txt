@@ -1,3 +1,0 @@
-🔍 GET: https://reqres.in/api/users?page=1
-✅ Status: 200
-Found 6 users

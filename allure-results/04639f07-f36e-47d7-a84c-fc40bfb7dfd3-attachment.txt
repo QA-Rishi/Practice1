@@ -1,3 +1,0 @@
-🗑️ DELETE: https://reqres.in/api/users/2
-✅ Status: 204
-User deleted successfully

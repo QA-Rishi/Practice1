@@ -1,3 +1,0 @@
-🔍 GET: https://reqres.in/api/users/999
-✅ Status: 404
-Correctly handled user not found scenario

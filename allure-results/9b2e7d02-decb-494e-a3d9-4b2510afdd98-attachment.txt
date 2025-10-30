@@ -1,4 +1,0 @@
-📤 POST: https://reqres.in/api/login
-✅ Status: 200
-🔑 Auth token set
-Login successful. Token: QpwL5tke4P...

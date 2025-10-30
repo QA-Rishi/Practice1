@@ -1,3 +1,0 @@
-🔍 GET: /api/users?page=1
-🔍 GET: /api/users/1
-✅ Data validation completed

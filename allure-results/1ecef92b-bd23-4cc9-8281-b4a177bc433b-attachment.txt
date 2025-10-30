@@ -1,6 +1,0 @@
-Sending login  {"email":"eve.holt@reqres.in","password":"cityslicka"}
-Testing login with API key...
-📤 POST: https://reqres.in/api/login
-Status: 200
-Response: { token: 'QpwL5tke4Pnpja7X4' }
-✅ Login works with API key
